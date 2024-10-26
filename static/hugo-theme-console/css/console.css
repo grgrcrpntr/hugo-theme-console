@@ -190,11 +190,11 @@ figure {
 
 .gallery-image {
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     margin-right: 30px;
-    width: 50%;
+    width: 40%;
     height: auto;
-    float: left;
+    
 }
 
 .posts-list {
